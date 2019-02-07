@@ -1,0 +1,34 @@
+*{
+	box-sizing: border-box;
+ }
+
+ body{
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+
+.container{
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+section{
+	margin: 2em 0;
+	overflow: hidden;
+}
+
+section h2{
+	font-size: 2em;
+	display: block;
+	padding-bottom: .5em;
+	margin-bottom: .5em;
+}
+
+.invisible{
+    display:none;
+}
+
+.colorGrey{
+    background-color: #555;
+}
